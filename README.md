@@ -50,6 +50,6 @@ qemu-system-x86_64 \
   -initrd busybox-1.36.1/initramfs.cpio.gz \
   -nographic \
   -append "console=ttyS0 rdinit=/init"
-
+```
 成功後即可進入 BusyBox shell 環境
 
